@@ -1,0 +1,17 @@
+{
+  "name": "pokesprite-react",
+  "version": "0.0.1",
+  "description": "pokesprite react component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokemon",
+    "sprites",
+    "react",
+    "component"
+  ],
+  "author": "Emma Ramirez",
+  "license": "MIT"
+}
